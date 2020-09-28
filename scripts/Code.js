@@ -1,4 +1,4 @@
 function myFunction() {
   //SAMPLE
-  Hello
+  juichi
 }
