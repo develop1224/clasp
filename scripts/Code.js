@@ -1,4 +1,5 @@
 function myFunction() {
   //SAMPLE
-  juichi world
+  juichiWorld
 }
+
